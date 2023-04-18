@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.p{
+    
+    padding: 0px 470px;
+    height: 35px;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.first{
+    display: flex;
+}
+.nav{
+    display: flex;
+}
+
+  .main_heading{
+      padding: 0;
+      color: rgb(15, 6, 6);
+      font-size: 42px;
+      font-style:arial;
+      width: 1023px;
+      margin: auto;
+     
+  
+  }
+  .harsh{
+    display: flex;
+    background-color: hsl(0, 91%, 31%);
+    position: sticky;
+    top: 0;
+   
+  }
+  .font{
+    
+    padding-bottom: 30px;
+  }
+  
+  
+  
+  .buttonr{
+    color: yellow;
+    size: 5px;
+    font-size: 5px;
+  }
+  .mentor{
+    color: yellow;
+  }
+  button{
+    font-size: 25px;
+    background-color: yellow;
+    
+  }
+  .class{
+    padding: 0px 43pc;
+
+  }
